@@ -1,3 +1,2 @@
 # test-repository1
-
-This is a new edit from my local machine.
+This is the 2nd edit
